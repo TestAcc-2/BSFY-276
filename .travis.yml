@@ -4,7 +4,7 @@ language: shell
 vault:
   token:
   - secure: C9/d+Z+Lw0ZpUfEcNwi3ZgdKoPTF2PWY9kFw4pfRnXVdae2dvpmAtAlHPWQf4KYKCI151EhwPwmy33H5zaYFJ1Hsjq7CSRuoo85aK7w/Hz77jKRFdM1QaJnXon/CvpG3gqyYHq7X18he+1kMj9ItymcwWW0213zNJKDXiDDyynKyE1LdN0z7fbCfc4jGV+BlBBHVkNp/3jalTZuXhRc4obniPhAB5AXXJEOWyiLY7EAkYb3pM8CC2InVOBjCfi4iA5szgHy3OK5g+exQwT+7xuyuTnxA7NKwfNjTJvZui0xkJxazmP40VYS2QiI4dZS7mMZXx9ZRzzx8ws5LtlFftEZdTdNNvx/1OrEZnd/yOOvuT9nFwbD909IuXlT4c0gDPhnUIHcEqASce/ZwYp6l6Ly4SQT9wc/n3ITe8DRKU7PFEhT7gQ/aHtZt5xlAma8hGNNVUi0AI3inVVP8RcPpQODz6ziHe96q7mLfauvWQEYUPImjfF65lgUGK3i8OutVVcMgofUscfjmA4gKwdr8iQtv7h34FywVQ/r3m/8GMmxoHUlwVG2mmlgzgSh71U4p26jQ5PQFW6xwRNg9iDJIA30sfMqPrfCc2ARynIge9wLh1032IX24mDOb6bcbK76SuQ8gZh8jawL+Yh8usaghHhEdmSNwWqyV0YBwoPlwFE0=
-  api_url: https://app-staging-qe2.travis-ci.com
+  api_url: https://vault-dwztla.travis-ci.com
   secrets:
     - secret/mysecret
 
